@@ -2,7 +2,7 @@
 
 - Clone this repository
 
-- Moved inside the cloned directory and execute the following command
+- Moved inside the cloned directory and execute the following command (Make sure docker is running)
 
 ```
 docker compose up -d
